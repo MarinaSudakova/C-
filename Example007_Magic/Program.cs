@@ -17,7 +17,7 @@ int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 10);
+while(count < 10000)
 {
     int what = new Random().Next(0, 3);
     if(what == 0)
@@ -40,5 +40,5 @@ while(count < 10);
 
     Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
-    count = count + 1;
+    count++;
 }
