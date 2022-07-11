@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.csproj.CoreCompileInputs.cache
