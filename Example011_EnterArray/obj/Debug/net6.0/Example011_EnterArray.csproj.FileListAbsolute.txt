@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\bin\Debug\net6.0\Example011_EnterArray.exe
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\bin\Debug\net6.0\Example011_EnterArray.deps.json
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\bin\Debug\net6.0\Example011_EnterArray.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\bin\Debug\net6.0\Example011_EnterArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\bin\Debug\net6.0\Example011_EnterArray.pdb
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\refint\Example011_EnterArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.pdb
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\Example011_EnterArray.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_EnterArray\obj\Debug\net6.0\ref\Example011_EnterArray.dll
