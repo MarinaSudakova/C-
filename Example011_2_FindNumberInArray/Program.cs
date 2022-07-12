@@ -7,7 +7,7 @@ void FillArray(int[] collection)
     int index = 0;
     while (index < length)
     {
-        collection[index] = new Random().Next(1, 30);
+        collection[index] = new Random().Next(1, 10);
         index += 1;
     }
 }
@@ -19,7 +19,7 @@ void ShowArray(int[] coll)
     int position = 0;
     while (position < coll.Length)
     {
-        Console.WriteLine(coll[position]);
+        Console.Write($"{coll[position]} ");
         position += 1;
     }
 }
@@ -32,7 +32,7 @@ int IndexOf(int[] collection, int found)
     int position = -1;
     while (index < count)
     {
-        if(collection[index]) == found;
+        if ((collection[index]) == found)
         {
             position = index;
         }

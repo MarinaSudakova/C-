@@ -3,3 +3,13 @@ C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекци�
 C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.AssemblyInfo.cs
 C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\bin\Debug\net6.0\Example011_2_FindNumberInArray.exe
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\bin\Debug\net6.0\Example011_2_FindNumberInArray.deps.json
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\bin\Debug\net6.0\Example011_2_FindNumberInArray.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\bin\Debug\net6.0\Example011_2_FindNumberInArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\bin\Debug\net6.0\Example011_2_FindNumberInArray.pdb
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\refint\Example011_2_FindNumberInArray.dll
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.pdb
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\Example011_2_FindNumberInArray.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\ПРОГРАММИРОВАНИЕ\C# Лекции\Example011_2_FindNumberInArray\obj\Debug\net6.0\ref\Example011_2_FindNumberInArray.dll
