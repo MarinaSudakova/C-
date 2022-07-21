@@ -31,20 +31,28 @@ int Method3 ()
 // int year = Method3();
 // Console.WriteLine(year);
 
-//Вид 4 - принимает и возвращает
+//Вид 4 - принимает и возвращает + цикл for
 string Method4(int count, string text)
 {
-    int i = 0;
     string result = String.Empty;
-
-    while (i < count)
+    for (int i = 0; i < count; i++)
     {
         result = result + text;
-        i++;
     }
 
     return result;
 }
 
-string res = Method4(10, "Бося");
-Console.Write(res);
+//string res = Method4(10, "Бося");
+//Console.Write(res);
+
+// Цикл в цикле пример
+for (int i = 2; i <= 10; i++)
+{
+    for (int j = 2; j <= 10; j++)
+    {
+        Console.WriteLine($"{i} * {j} = {i*j}");
+    }
+    Console.WriteLine();
+}
+
