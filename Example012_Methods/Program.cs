@@ -22,13 +22,6 @@ string Replace(string text, char oldValue, char newValue)
     return result;
 }
 
-string newText = Replace(text, ' ', '~');
+string newText = Replace(text, 'д', 'Д');
 Console.WriteLine(newText);
 Console.WriteLine();
-
-newText = Replace(newText, 'к', 'К');
-Console.WriteLine(newText);
-Console.WriteLine();
-
-newText = Replace(newText, 'В', 'в');
-Console.WriteLine(newText);
